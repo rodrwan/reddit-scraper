@@ -1,0 +1,32 @@
+{
+  "name": "reddit-scraper",
+  "version": "0.0.1",
+  "description": "Scraper of reddit using Yakuza framework",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrwan/reddit-scraper.git"
+  },
+  "keywords": [
+    "reddit",
+    "nodejs",
+    "javascript",
+    "yakuza",
+    "scrape"
+  ],
+  "author": "Rodrigo Fuenzalida (rfuenzalidac87@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrwan/reddit-scraper/issues"
+  },
+  "homepage": "https://github.com/rodrwan/reddit-scraper",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "gurkha": "^1.0.0",
+    "lodash": "^3.7.0",
+    "yakuza": "^1.0.2"
+  }
+}
